@@ -1,0 +1,3 @@
+flickrClient
+============
+Sample task
