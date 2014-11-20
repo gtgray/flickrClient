@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="clr_white_full">#FFFFFFFF</color>
+	<color name="clr_light_purple_back">#1AAA66CC</color>
+	<color name="clr_black_text">#FF000000</color>
+	<color name="clr_transparent">#00000000</color>
+	
+	<color name="clr_progress_one">#FF99CC00</color>
+	<color name="clr_progress_two">#FF669900</color>
+	<color name="clr_progress_three">#FF9933CC</color>
+	<color name="clr_progress_four">#FFAA66CC</color>
+	
+	
+</resources>
